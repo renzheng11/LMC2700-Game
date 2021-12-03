@@ -47,7 +47,7 @@ let result = setInterval(() => {
     let dinoBottom = parseInt(getComputedStyle(dino).getPropertyValue("bottom"));
     let blockLeft = parseInt(getComputedStyle(block).getPropertyValue("left"));
 
-    if (dinoBottom <= 60 && blockLeft >= 20 && blockLeft <= 80) {
+    if (dinoBottom <= 60 && blockLeft >= 30 && blockLeft <= 80) {
         gameOver.style.display = "block";
         block.classList.remove("blockActive");
         road.firstElementChild.style.animation = "none";
