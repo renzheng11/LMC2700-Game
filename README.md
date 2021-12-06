@@ -1,4 +1,4 @@
-# LMC2700-Game - team 4
+# LMC2700-Kirby's Adventure - team 4
 Game Name: Kirby's Adventure
 Team 4 member:
 Xinen Lyu - designer, programmer
